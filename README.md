@@ -1,6 +1,6 @@
 
 # Cat vs Dog Image Classifier
-
+![App Screenshot](https://github.com/sonu275981/Cat-vs-Dog-Image-Classifier/blob/3f4692cff0d4311b250d206b15c5bd8023901c7b/demo/dog.gif?raw=true)
 #### Introduction:
 
 This project aims to classify the input image as either a dog or a cat image. The image input which you give to the system will be analyzed and the predicted result will be given as output. Machine learning algorithm [Convolutional Neural Networks] is used to classify the image. 
